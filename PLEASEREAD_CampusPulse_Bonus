@@ -1,0 +1,6 @@
+CampusPulse_Bonus answers:
+Plot_1.png: Random Forest: Parallel sectors not encompassing full length of grid, more finer divisions
+Plot_2.png: Decision tree: classic, parallel stretch, simple divisions
+Plot_5.png: KNN: Possible overfitting can occur with this if low values of k, patchiness
+Plot_3.png: Regression or Gaussian Naive Bayes: Boundary smooth and stretches across field as per characteristic
+Plot_4.png: SVM: ellipse shape, more folded in or ellipse suggest SVM as I saw some SVM plots online
